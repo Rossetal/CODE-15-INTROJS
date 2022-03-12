@@ -16,4 +16,32 @@ alert(`Es mayor de edad: ${esMayorDeEdad ? 'si' : 'no'}` )
  //   <que pasa si se cumple>
 //}else{
   //  { <que pasa si no se cumple>
-  // } 
+  // }
+  
+  /* let edad = 25;
+  if(edad  >18) {
+    console.log('Eres mayor de edad')
+  } else {
+    console.log('Eres menor de edad')
+  }
+  
+  let edad = 25;
+  edad > 18
+   ? console.log('Eres mayor de edad') :  console.log('Eres menor de edad'); 
+ */
+
+
+
+//Ejemplo ternario a if y else
+
+  /*  let comidaFavorita = "carne"
+   comidaFavorita === "carne" ? console.log("Eres carnivoro") : console.log("Eres hervivoro")
+
+   if(comidaFavorita === "carne"){
+     console.log("Eres carnivoro")
+   }else{
+     console.log("Eres ervivioro")
+   }
+ */
+
+

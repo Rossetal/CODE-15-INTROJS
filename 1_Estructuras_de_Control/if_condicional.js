@@ -1,4 +1,4 @@
-let calificacion = 6;
+let calificacion = 7;
 
 if(calificacion <= 5){
     alert('Estas reprobado')
